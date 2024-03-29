@@ -1,0 +1,25 @@
+{
+  "name": "ethereum-wallet-tracker",
+  "version": "1.0.0",
+  "description": "A simple utility to track the balance of an Ethereum wallet.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ethereum-wallet-tracker.git"
+  },
+  "keywords": [
+    "ethereum",
+    "wallet",
+    "tracker",
+    "balance"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.11.1"
+  }
+}
+
